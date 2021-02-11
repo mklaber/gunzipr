@@ -1,7 +1,7 @@
 {
   "name": "gunzipr",
   "description": "Recursively gunzip files in a directory",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Matt Klaber @mklaber",
   "bin": {
     "gunzipr": "./bin/run"
